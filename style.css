@@ -3,3 +3,49 @@ body {
   height: 100%;
   margin: 0;
 }
+/* h1 {
+  text-align: center;
+}
+nav {
+  text-align: center;
+} */
+header {
+  text-align: center;
+}
+#featured-property{
+  text-align: center;
+}
+#details {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: grey;
+}
+#featured-property~p {
+  width: 800px;
+  text-align: center;
+}
+.contact {
+  float: left;
+  background: red;
+  text-align: center;
+  width: 25%;
+}
+.Correspondence {
+  float: left;
+  background: red;
+  text-align: center;
+  width: 25%;
+}
+.link {
+  float: left;
+  background: red;
+  text-align: center;
+  width: 25%;
+}
+.Follow {
+  float: left;
+  background: red;
+  text-align: center;
+  width: 25%;
+}
